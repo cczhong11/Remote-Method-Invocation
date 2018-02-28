@@ -1,8 +1,0 @@
-Name: Tianchen Zhong
-Andrew ID: tzhong1
-Section: A
-
-Name: Weijie Chen
-Andrew ID: weijiec
-Section: A
-
