@@ -1,0 +1,11 @@
+TODO
+*.class
+*.html
+*.js
+*.css
+package-list
+.DS_Store
+.classpath
+.project
+.json
+.gif
